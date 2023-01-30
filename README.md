@@ -20,7 +20,7 @@ works automatically, when colour dropper is active, will not paint surface
 
 Gets rGB value of pixel
 Draws red lines to pixel
-Saves rib value to draw with
+Saves rgb value to draw with
 
 ### Save
 saves the surface as a png to the folder that polish.c is saved to
